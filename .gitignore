@@ -1,0 +1,8 @@
+./__pychache__
+./.vscode
+./bin
+./include
+./lib
+./lib64
+./share
+./pyvenv.cfg
